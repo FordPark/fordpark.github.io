@@ -2,7 +2,6 @@
 layout: post
 title:  "Rethinking Work"
 date:   2015-08-28 12:00:00
-excerpt_separator: <!--more-->
 categories:
 ---
 

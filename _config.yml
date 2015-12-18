@@ -7,6 +7,7 @@
 
 # Site settings
 title: Links
+excerpt_separator: <!--more-->
 contact_form: https://fordpark.wufoo.com/forms/contact-me/
 description: > # this means to ignore newlines until "baseurl:"
   From supporting bespoke software for blue chip companies in Hammersmith to onsite support at a international law firm 
