@@ -6,7 +6,7 @@ permalink: /churchit/
 
 **IT wise.  In the UK**.  We're talking here about supporting a city centre church with with at least 10 staff and a congregation of 500 with 1 part-time IT bod.  Anything outside of the following means you're going down the bespoke route and you have to be really sure the gains are worth it, as it means an increased support burden. 
 
-- Website - a [bootstrap](http://getbootstrap.com) responsive site which points people to your google calendar and twitter - your site won't change much eg when there is a new member of staff.  Don't use joomla or wordpress as a)  after the initial excitement, no one will want to write for the site and b) at some point an update will break your expensive theme. Use a professional photographer - no one goes to websites anymore, but if they do, they just look at the pictures.  Because you're using google calendar twitter (see below) to keep people informed you're looking at a website which changes very rarely eg when there is a new staff member.
+- Website - a [bootstrap](http://getbootstrap.com) responsive (single page?) site which points people to your google calendar and twitter.  Your site won't change much eg when there is a new member of staff. Don't use joomla or wordpress as a) after the initial excitement, no one will want to write for the site and b) at some point an update will break your expensive theme. Use a professional photographer - no one goes to websites anymore, but if they do, they just look at the pictures.
 
 - Online articles - a [jekyll blog](https://jekyllrb.com).  And yes it's responsive.
 
@@ -28,4 +28,6 @@ permalink: /churchit/
 
 - NAS - get an inexpensive 1 or 2 bay [synology](https://www.synology.com/en-uk/) or [qnap](https://www.qnap.com/i/uk/).  This is mainly for the av team to park their large files.  [Chronosync](http://www.econtechnologies.com/chronosync/overview.html) to backup up once a week to external drives, always have one drive off site.
 
-With the above setup requiring minimal IT support, the most important tech person onsite is the head of the AV team - you want him/her to be hands-on as this helps problem solving when the AV engineers turn up.  Also the AV team are the ones who put in the hours - finding out requirements, rehearsing, setting up equipment, the actual events themselves, tidying up and editing.  And like a lot of jobs, the AV team can put in a lot of effort and not have too much to show for it - things/equipment still go wrong.
+With the above setup requiring minimal IT support, the most important tech person onsite is the head of the AV team - you want him/her to be hands-on as this helps problem solving when the AV engineers turn up.
+
+The AV team are the ones who put in the hours - finding out requirements, rehearsing, setting up equipment, the actual events themselves, tidying up and editing.  And like a lot of jobs, they can put in a lot of effort and not have too much to show for it - things/equipment still go wrong.
