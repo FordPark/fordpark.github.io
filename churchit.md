@@ -12,7 +12,7 @@ permalink: /churchit/
 
 - Email - [google apps gmail](https://apps.google.com/products/gmail/).
 
-- Public calendar - [google apps calendar](https://apps.google.com/products/calendar/).  Make people subscribe to it rather than displaying it via a pretty webpage which usually isn't that pretty.  
+- Public calendar - [google apps calendar](https://apps.google.com/products/calendar/).  Make people subscribe to it rather than displaying it via a pretty webpage which usually isn't that pretty.  Use for the internal staff calendars as well.  
 
 - Dropbox - people love it.
 
