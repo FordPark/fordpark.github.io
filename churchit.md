@@ -30,4 +30,4 @@ permalink: /churchit/
 
 With the above setup requiring minimal IT support, the most important tech person onsite is the head of the AV team - you want him/her to be hands-on as this helps problem solving when the AV engineers turn up.
 
-The AV team are the ones who put in the hours - finding out requirements, rehearsing, setting up equipment, the actual events themselves, tidying up and editing.  And like a lot of jobs, they can put in a lot of effort and not have too much to show for it - things/equipment still go wrong.
+The AV team are the ones who put in the hours - finding out requirements, rehearsing, setting up equipment, the actual events themselves, tidying up and editing.  And like a lot of jobs, they can put in a lot of effort and not have too much to show for it - things/equipment still go wrong.  A running joke among AV people is that when you move church you don't tell anyone you have AV experience.
